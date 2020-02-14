@@ -12,4 +12,4 @@ now, place the identeties (identity_CelebA.txt) next to the images. The director
 
 # Step 3
 
-now, run the test_celeba-with-id.ipynb notebook to see how you can also get the ids. 
+now, run the test_celeba-with-id.ipynb notebook to see how you can also get the ids. In case of question, email me at fmireshg@eng.ucsd.edu. 
